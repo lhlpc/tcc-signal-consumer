@@ -1,11 +1,12 @@
-A visualization for
-[Flutter GitHub repository](https://github.com/flutter/flutter/) metadata.
+# Software Web Consumidor de sinais do TCC
 
-Created for Google by [Larva Labs](http://larvalabs.com/), a team of creative
-technologists who make things for Android, iPhone, and the Web.
+[Link para TCC escrito](https://www.dropbox.com/sh/50arl924hzh4imw/AADP-h0LelF1QMCfGgeDMX-Fa?dl=0)
 
-## Data Notes
+## Execução
 
-The data starts the week of Oct 19, 2014 which is the first commit. This is week
-0 in our data arrays, but it is week 43 in 2014. Year boundaries are then offset
-by 9 weeks.
+- Instalar Flutter de acordo com as [instruções oficiais](https://flutter.dev/docs/get-started/install)
+- Para executar localmente, em algum terminal, na raiz do projeto, executar:
+
+```bash
+flutter run
+```
